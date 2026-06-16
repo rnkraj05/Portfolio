@@ -399,4 +399,16 @@ width:280px;
 height:280px;
 }
 
+.experience-container{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(350px,1fr));
+gap:25px;
+}
+
+.about-content p{
+margin-bottom:18px;
+line-height:1.8;
+}
+
+
 }
